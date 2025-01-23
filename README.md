@@ -10,3 +10,6 @@ This dashboard is my insights for three regoinal manager of chain coffee shope w
  - Coffee is the most popular category, with Barista Espresso leading in both sales and profitability across all stores. 
 ## Data Story :
 I have noticed that at the Hell's Kitchen store, sales of merchandise clothing are particularly low, suggesting a lack of demand in this location.We recommend introducing promotional discounts to stimulate customer interest and increase sales or else discontinuing in-store display of these items and making them available only on order. We shall allocate additional staff and ensure sufficient inventory during peak days Mondays, Thursdays, and Fridays and hour 10 AM to meet customer demand effectively
+
+## Dashboard :
+<img src=" width="3000" height="600"/>&nbsp;
