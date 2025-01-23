@@ -12,4 +12,4 @@ This dashboard is my insights for three regoinal manager of chain coffee shope w
 I have noticed that at the Hell's Kitchen store, sales of merchandise clothing are particularly low, suggesting a lack of demand in this location.We recommend introducing promotional discounts to stimulate customer interest and increase sales or else discontinuing in-store display of these items and making them available only on order. We shall allocate additional staff and ensure sufficient inventory during peak days Mondays, Thursdays, and Fridays and hour 10 AM to meet customer demand effectively
 
 ## Dashboard :
-<img src="https://github.com/your-username/your-repo/blob/main/dashboard-image.png" alt="Coffee Sales Dashboard">
+<img src="https://github.com/vaishu-08/Coffee-Shop-Dashboard/blob/main/Coffee%20Sales%20Dashboard.png" alt="Coffee Sales Dashboard">
