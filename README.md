@@ -1,5 +1,5 @@
 # Coffee-Shop-Dashboard 
-![Coffee Background Banner (4)](
+![Coffee Background Banner (4)]( https://github.com/vaishu-08/Coffee-Shop-Dashboard/blob/main/Coffee%20Beans.jpeg)
 
 ## Overview :
 This dashboard is my insights for three regoinal manager of chain coffee shope with threee stores. The insights presented aim to support data-driven decisions to optimize store operations and enhance profitability.
