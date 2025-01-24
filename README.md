@@ -3,6 +3,9 @@
 
 ## Overview :
 This dashboard is my insights for three regoinal manager of chain coffee shope with threee stores. The insights presented aim to support data-driven decisions to optimize store operations and enhance profitability.
+## Tools Used :
+<img src= "https://github.com/vaishu-08/Coffee-Shop-Dashboard/blob/main/Microsoft_Office_Excel.png" alt="Microsoft_Office_Excel" Width="400" Height="300">
+
 ## Insights :
  - Revenue has shown consistent growth over the months, reflecting strong performance and increasing customers.
  - Mondays, Thursdays, and Fridays are the busiest days across all stores. This aligns with workdays when customers prefer coffee to energize themselves for work.
